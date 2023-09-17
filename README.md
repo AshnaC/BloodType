@@ -1,5 +1,15 @@
 # Compute Blood Types
 
+Using Bayesian networks, compute the probability that someone has a particular blood type
+given some test results for the blood types of their relatives.
+
+The family tree is described via relationhips between people. The
+following types of relationship are used: mother-of, father-of, sister-of, brother-of. Note that
+some relationships may only be implicit. For example, if A is a parent of B, and C is a
+sibling of B, then clearly A is also a parent of C – even though it might not be explicitly
+stated. We also assume that everyone has exactly one male and one female parent
+![Alt text](payload.jpg)
+
 ## Dependencies
 
 Packages to be installed
