@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Prisha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Prisha",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        }
+    ]
+}

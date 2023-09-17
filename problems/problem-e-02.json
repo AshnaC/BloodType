@@ -1,0 +1,32 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Ava"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Leslie",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ahmed"
+        }
+    ]
+}

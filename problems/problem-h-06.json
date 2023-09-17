@@ -1,0 +1,84 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Ava"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Ava",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Ava"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Omar"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Kim"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Ava",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Leslie"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "O"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Kim",
+            "result": "O"
+        },
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Ahmed",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Omar",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ahmed"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        }
+    ]
+}

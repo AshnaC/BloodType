@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Amanda",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Samantha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Amanda",
+            "object": "Jordan"
+        }
+    ],
+    "country": "East Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Maria",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Samantha"
+        }
+    ]
+}

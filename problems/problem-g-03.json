@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Maria"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Ava",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Ava",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Dana",
+            "object": "Ayansh"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        }
+    ]
+}

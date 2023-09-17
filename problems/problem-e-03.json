@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Ava"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Ayansh"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Calvin",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ava"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Nora"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Yufei",
+            "object": "Linda"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Linda",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Agnieszka",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Mehmet",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Agnieszka",
+            "object": "Kim"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Linda",
+            "object": "Samantha"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Yufei",
+            "object": "Maria"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Samantha",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Mehmet",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Ayansh"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Agnieszka"
+        }
+    ]
+}

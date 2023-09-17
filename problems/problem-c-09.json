@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Ira"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Yufei"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ira",
+            "object": "Mehmet"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Calvin",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Yufei"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        }
+    ]
+}

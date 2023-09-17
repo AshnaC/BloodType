@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "brother-of",
+            "subject": "Kim",
+            "object": "Samantha"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Samantha",
+            "object": "Yufei"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Rory"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Kim",
+            "object": "Samantha"
+        }
+    ],
+    "country": "East Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Rory",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Yufei"
+        }
+    ]
+}

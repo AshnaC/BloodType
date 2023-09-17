@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Sasha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Ava"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Muhammed"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Noel",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Muhammed"
+        }
+    ]
+}

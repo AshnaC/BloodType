@@ -1,0 +1,46 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Sasha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Daniel",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Leslie",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Lindsay"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Lindsay",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        }
+    ]
+}

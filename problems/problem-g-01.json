@@ -1,0 +1,37 @@
+{
+    "family-tree": [
+        {
+            "relation": "brother-of",
+            "subject": "Sasha",
+            "object": "Amanda"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Daniel",
+            "object": "Ava"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Amanda",
+            "object": "Daniel"
+        }
+    ],
+    "country": "East Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Daniel",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ava"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Amanda"
+        }
+    ]
+}

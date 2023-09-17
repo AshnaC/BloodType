@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Calvin"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Maria",
+            "object": "Jordan"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Leslie"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Leslie",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        }
+    ]
+}

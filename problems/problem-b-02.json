@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Samantha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Muhammed",
+            "object": "Zeinab"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Samantha",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Muhammed"
+        }
+    ]
+}

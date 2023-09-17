@@ -1,0 +1,52 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Samantha"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Samantha",
+            "object": "Nora"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Leslie"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Prisha",
+            "object": "Sasha"
+        }
+    ],
+    "country": "East Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Sasha",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Nora",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Prisha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

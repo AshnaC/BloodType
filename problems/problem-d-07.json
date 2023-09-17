@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Nora"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Sam"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Daniel"
+        }
+    ],
+    "country": "East Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Noel",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Sam"
+        }
+    ]
+}

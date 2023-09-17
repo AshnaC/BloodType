@@ -1,0 +1,41 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Noel",
+            "object": "Omar"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Omar",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Kim"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Omar",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Noel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

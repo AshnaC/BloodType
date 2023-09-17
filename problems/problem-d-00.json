@@ -1,0 +1,51 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Yufei"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Yufei",
+            "object": "Lyn"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Amanda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Maria"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Muhammed"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Maria"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Yufei"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Amanda"
+        }
+    ]
+}

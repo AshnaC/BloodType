@@ -1,0 +1,48 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Youssef"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Brian"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Linda"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Nora",
+            "result": "O"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Nora",
+            "result": "A"
+        },
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Kim",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Brian"
+        }
+    ]
+}

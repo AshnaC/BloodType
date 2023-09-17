@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Agnieszka"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Rory",
+            "object": "Samantha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Rory",
+            "object": "Daniel"
+        }
+    ],
+    "country": "East Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Zeinab",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Samantha"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Mehmet"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Jordan",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

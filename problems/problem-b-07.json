@@ -1,0 +1,52 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Amanda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Amanda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Ava"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Amanda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Amanda"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Sasha",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ava"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Amanda"
+        }
+    ]
+}

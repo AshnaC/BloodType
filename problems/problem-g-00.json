@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "brother-of",
+            "subject": "Kim",
+            "object": "Sasha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Sasha",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Ayansh"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Youssef",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Kim"
+        }
+    ]
+}

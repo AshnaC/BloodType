@@ -1,0 +1,41 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Omar"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Jordan"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Jordan"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Jordan",
+            "object": "Calvin"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Omar",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Jordan"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

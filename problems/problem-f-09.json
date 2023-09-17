@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Ava",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Yufei"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Mehmet",
+            "object": "Lyn"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ava",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Yufei",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Mehmet"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "brother-of",
+            "subject": "Ayansh",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Ayansh",
+            "object": "Ahmed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Sasha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ahmed",
+            "object": "Mehmet"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "O"
+        },
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Mehmet",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        }
+    ]
+}

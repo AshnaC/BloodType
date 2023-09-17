@@ -1,0 +1,32 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Youssef"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Youssef"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Kim"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Kim",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

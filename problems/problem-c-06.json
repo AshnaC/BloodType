@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Brian"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lindsay",
+            "object": "Sam"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Brian"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Lindsay",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Lyn"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Prisha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Dana"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Dana",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Samantha"
+        }
+    ]
+}

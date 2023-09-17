@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Calvin"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Omar",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

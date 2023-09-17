@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Sasha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Dana",
+            "object": "Kim"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Kim",
+            "object": "Ayansh"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Ayansh",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        }
+    ]
+}

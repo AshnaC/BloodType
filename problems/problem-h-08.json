@@ -1,0 +1,66 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Mehmet"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Mehmet",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Lindsay",
+            "object": "Calvin"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Leslie",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Brian",
+            "object": "Samantha"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Lindsay",
+            "object": "Omar"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Calvin",
+            "object": "Daniel"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Mehmet",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Samantha",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Omar"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        }
+    ]
+}

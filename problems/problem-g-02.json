@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Dana"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Dana",
+            "object": "Agnieszka"
+        }
+    ],
+    "country": "East Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Dana",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Agnieszka"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Samantha",
+            "object": "Daniel"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Samantha",
+            "object": "Noel"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Muhammed",
+            "object": "Zeinab"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Muhammed",
+            "object": "Maria"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Noel",
+            "object": "Muhammed"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Zeinab",
+            "result": "A"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Maria",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Noel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Daniel"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Samantha"
+        }
+    ]
+}

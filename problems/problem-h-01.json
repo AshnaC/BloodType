@@ -1,0 +1,46 @@
+{
+    "family-tree": [
+        {
+            "relation": "brother-of",
+            "subject": "Noel",
+            "object": "Youssef"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Youssef",
+            "object": "Sam"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Noel",
+            "object": "Youssef"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Youssef",
+            "object": "Rory"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Youssef",
+            "object": "Calvin"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Calvin",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Sam"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Rory"
+        }
+    ]
+}

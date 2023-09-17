@@ -1,0 +1,36 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Zeinab",
+            "object": "Linda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Linda"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Dana"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Dana",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Zeinab"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Calvin"
+        }
+    ]
+}

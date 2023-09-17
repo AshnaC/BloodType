@@ -1,0 +1,38 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Brian"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Lyn",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Kim",
+            "object": "Samantha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Brian",
+            "result": "O"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Lyn",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Samantha"
+        }
+    ]
+}

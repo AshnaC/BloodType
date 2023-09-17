@@ -1,0 +1,47 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Calvin"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Nora"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Maria"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Nora",
+            "object": "Youssef"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Youssef",
+            "result": "O"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Sasha",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Noel"
+        }
+    ]
+}

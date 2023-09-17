@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Noel"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Agnieszka",
+            "object": "Noel"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Ayansh"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Noel",
+            "object": "Ayansh"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Agnieszka",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Noel"
+        }
+    ]
+}

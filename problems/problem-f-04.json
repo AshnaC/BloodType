@@ -1,0 +1,32 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Muhammed"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Ayansh",
+            "object": "Dana"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Muhammed",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Dana"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Linda"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Sasha"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Omar",
+            "object": "Linda"
+        }
+    ],
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Omar",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Sasha",
+            "result": "O"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Lindsay"
+        }
+    ]
+}

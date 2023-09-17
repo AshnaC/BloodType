@@ -1,0 +1,56 @@
+{
+    "family-tree": [
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Youssef"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Youssef",
+            "object": "Lindsay"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Leslie"
+        },
+        {
+            "relation": "father-of",
+            "subject": "Sasha",
+            "object": "Sam"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Linda",
+            "object": "Leslie"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Sam",
+            "result": "AB"
+        },
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Youssef",
+            "result": "A"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Linda"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Sasha"
+        },
+        {
+            "type": "bloodtype",
+            "person": "Youssef"
+        }
+    ]
+}

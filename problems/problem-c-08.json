@@ -1,0 +1,43 @@
+{
+    "family-tree": [
+        {
+            "relation": "father-of",
+            "subject": "Calvin",
+            "object": "Prisha"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Kim"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Leslie"
+        },
+        {
+            "relation": "mother-of",
+            "subject": "Prisha",
+            "object": "Leslie"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "cheap-bloodtype-test",
+            "person": "Calvin",
+            "result": "B"
+        },
+        {
+            "type": "bloodtype-test",
+            "person": "Calvin",
+            "result": "B"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Leslie"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "family-tree": [
+        {
+            "relation": "brother-of",
+            "subject": "Ayansh",
+            "object": "Sasha"
+        },
+        {
+            "relation": "brother-of",
+            "subject": "Ayansh",
+            "object": "Samantha"
+        },
+        {
+            "relation": "sister-of",
+            "subject": "Samantha",
+            "object": "Sasha"
+        }
+    ],
+    "country": "North Wumponia",
+    "test-results": [
+        {
+            "type": "bloodtype-test",
+            "person": "Sasha",
+            "result": "AB"
+        }
+    ],
+    "queries": [
+        {
+            "type": "bloodtype",
+            "person": "Ayansh"
+        }
+    ]
+}
